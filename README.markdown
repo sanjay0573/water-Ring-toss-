@@ -68,7 +68,7 @@ Contributions are welcome! Fork the repository, submit issues, or create pull re
 
 ## License
 This project is licensed under the [MIT License](LICENSE).  
-*Note: Add a `LICENSE` file to the repository if desired.*
+
 
 ## Credits
 Developed as a fun, nostalgic project inspired by classic handheld water ring toss games and community discussions on retro toys.
